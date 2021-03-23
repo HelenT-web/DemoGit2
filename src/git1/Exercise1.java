@@ -8,9 +8,12 @@ public class Exercise1 {
 		
 		System.out.println("Let's Do It!");
 		
+		fName();
 		
 	}
 	
-	
+	public static void fName() {
+		System.out.println("Helen + Elliot");
+	}
 
 }
